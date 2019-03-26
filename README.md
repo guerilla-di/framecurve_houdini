@@ -3,12 +3,12 @@
 First of all, you will need our OTL module. [Download the OTL](framecurve_houdini/raw/master/scripts/framecurve.otl)
 Load the asset into Houdini, and create the node.
 
-![Node controls](framecurve_houdini/raw/master/images/fc_hou01.png)
+![Node controls](images/fc_hou01.png)
 
 Load the framecurve file into the node and hit "WARP!". To temporarily disable the animation, disable the "Warp on" checkbox.
 The node contains the following chopnet:
 
-![The created chopnet](framecurve_houdini/raw/master/images/fc_hou03.png)
+![The created chopnet](images/fc_hou03.png)
 
 ## License
 
