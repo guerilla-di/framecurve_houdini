@@ -1,6 +1,6 @@
 # Framecurve Houdini module
 
-First of all, you will need our OTL module. [Download the OTL](framecurve_houdini/raw/master/scripts/framecurve.otl)
+First of all, you will need our OTL module. [Download the OTL](scripts/framecurve.otl)
 Load the asset into Houdini, and create the node.
 
 ![Node controls](images/fc_hou01.png)
